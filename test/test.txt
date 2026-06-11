@@ -1,0 +1,18 @@
+Clinical Guideline: Hypertension Management (2026 Update)
+
+1. Diagnosis:
+Hypertension is defined as a persistent systolic blood pressure (SBP) of 130 mmHg or higher, or a diastolic blood pressure (DBP) of 80 mmHg or higher.
+
+2. First-line Pharmacological Therapy:
+Primary agents for treating hypertension include:
+- Thiazide diuretics (e.g., Chlorthalidone, Hydrochlorothiazide)
+- Angiotensin-converting enzyme (ACE) inhibitors (e.g., Lisinopril, Enalapril)
+- Angiotensin receptor blockers (ARBs) (e.g., Losartan, Valsartan)
+- Calcium channel blockers (CCBs) (e.g., Amlodipine, Diltiazem)
+
+3. Contraindications:
+- ACE inhibitors and ARBs must never be prescribed concurrently.
+- ACE inhibitors and ARBs are strictly contraindicated during pregnancy due to fetal toxicity risk.
+
+4. Monitoring:
+Reassess blood pressure and renal function/electrolytes within 2 to 4 weeks of starting or adjusting drug therapy.
