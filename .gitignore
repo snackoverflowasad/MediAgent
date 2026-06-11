@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local Databases (Vector DB files)
+chromadb/
+
+# Secrets & Local Configurations
+.env
+.env*.local
+
+# Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+
+# Streamlit configuration/caches
+.streamlit/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+desktop.ini
+chroma_db/
